@@ -1,3 +1,8 @@
+/*
+@author       Heet Bhimani
+@namespace    MAhaK6al
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
